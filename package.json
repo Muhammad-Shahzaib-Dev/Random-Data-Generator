@@ -1,0 +1,12 @@
+{
+  "name": "random-data",
+  "version": "1.0.0",
+  "description": "Create random users data 'Email' , 'username'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["random" , "user", "user" , "email"],
+  "author": "Muhammad Shahzaib",
+  "license": "MIT"
+}
